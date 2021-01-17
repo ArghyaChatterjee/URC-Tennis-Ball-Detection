@@ -1,0 +1,5 @@
+classes= 1
+train  = data/train_ball.txt
+valid  = data/valid_ball.txt
+names = data/train_ball.names
+backup = backup/
